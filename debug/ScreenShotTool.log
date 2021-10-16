@@ -1,0 +1,10 @@
+﻿  screenshottool.cpp
+  qrc_screenshottool.cpp
+  moc_canvas.cpp
+  moc_hotkeybar.cpp
+  moc_qxtglobalshortcut.cpp
+  moc_screenshottool.cpp
+  moc_textpaint.cpp
+    正在创建库 debug\\ScreenShotTool.lib 和对象 debug\\ScreenShotTool.exp
+  ScreenShotTool.vcxproj -> E:\Github\ScreenShotTool-master\debug\ScreenShotTool.exe
+  ScreenShotTool.vcxproj -> debug\ScreenShotTool.pdb (Full PDB)
